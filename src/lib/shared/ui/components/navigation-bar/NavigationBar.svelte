@@ -1,10 +1,7 @@
 <header class="bg-slate-50 shadow-md">
 	<div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-		<a
-			sveltekit:prefetch
-			href="/"
-			class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0  text-xl"
-			>EpyksLion
+		<a sveltekit:prefetch href="/" class="flex items-center text-gray-900 mb-4 md:mb-0  text-xl"
+			>EPYKSLION
 		</a>
 		<nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
 			<a sveltekit:prefetch href="/portfolio" class="mr-5 hover:text-gray-900">Videography</a>
