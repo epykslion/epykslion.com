@@ -1,8 +1,28 @@
+<header class="bg-slate-50 shadow-md">
+	<div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+		<a
+			sveltekit:prefetch
+			href="/"
+			class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0  text-xl"
+			>EpyksLion
+		</a>
+		<nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
+			<a sveltekit:prefetch href="/portfolio" class="mr-5 hover:text-gray-900">Videography</a>
+			<a sveltekit:prefetch href="/services" class="mr-5 hover:text-gray-900">Services</a>
+			<a sveltekit:prefetch href="/about" class="mr-5 hover:text-gray-900">About</a>
+			<a sveltekit:prefetch href="/contact" class="mr-5 hover:text-gray-900">Contact</a>
+		</nav>
+		<!-- <button
+			class="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0"
+			>Button</button
+		> -->
+	</div>
+</header>
 
-<nav class="fixed z-50 w-screen h-12 shadow-md bg-slate-50">
+<!-- <nav class="fixed z-50 w-screen h-12 shadow-md bg-slate-50">
   <div class="flex items-center justify-center h-full max-w-screen-lg p-2 sm:mx-auto">
     <a sveltekit:prefetch href="/" class='leading-4 text-lg font-medium hover:drop-shadow-md w-1/6 uppercase'>epykslion</a>
-<div class="inline-flex flex-grow items-center justify-center sm:w-1/2 mx-1 space-x-4 text-sm md:space-x-8 lg:text-lg">
+  <div class="inline-flex flex-grow items-center justify-center sm:w-1/2 mx-1 space-x-4 text-sm md:space-x-8 lg:text-lg">
       <a sveltekit:prefetch href="/portfolio" class="">
               Videography
             </a>
@@ -28,4 +48,4 @@
     </a>
   </div>
   </div>
-</nav>
+</nav> -->
