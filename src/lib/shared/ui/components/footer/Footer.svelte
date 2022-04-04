@@ -53,7 +53,7 @@
       height="32"
       width="32"
       title="mao"
-      class="inline mr-2 shadow  group-hover:shadow-lg"
+      class="inline mr-2 shadow  group-hover:drop-shadow"
       alt="what sorcery logo"
     />
     <!-- <p class="font-medium leading-tight track">More features<br />coming soon!</p>
@@ -87,7 +87,7 @@
   </div> -->
 
     <p class="inline text-base tracking-wider text-center sm:text-xl sm:tracking-widest group-hover:underline">
-      Created by Theo Nikolai Idris
+      Created by Lionel Ho
     </p>
   </a>
 </footer>

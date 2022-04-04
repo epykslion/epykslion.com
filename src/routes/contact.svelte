@@ -2,8 +2,11 @@
 <svelte:head>
   <title>Get in touch</title>
 </svelte:head>
-<div class="flex flex-col items-center justify-center w-screen">
-  <h1 class="mb-4 text-3xl font-semibold text-gray-600 md:text-4xl">
+<div class="flex flex-col h-[80vh] items-center justify-center w-screen">
+	<h1 class="font-semibold text-gray-600 text-3xl md:text-4xl">
+		This was just a demo,<br>you can go <a sveltekit:prefetch href="/" class="font-bold hover:text-gray-500 underline">home</a> now.
+	</h1>
+  <!-- <h1 class="mb-4 text-3xl font-semibold text-gray-600 md:text-4xl">
     Like what you see?<br /><span class="text-lg md:text-2xl"> Book a free consultation today!</span>
   </h1>
 <section class="p-6">
@@ -31,5 +34,5 @@
 			<button type="submit" class="w-full px-4 py-2 font-bold rounded shadow-md focus:outline-none focus:ring hover:ring-0 focus:ring-opacity-50 dark:bg-violet-400 focus:ring-violet-400 focus:drop-shadow-xl focus:-translate-y-0.5 transition duration-200 hover:drop-shadow dark:text-coolGray-900">Send</button>
 		</div>
 	</form>
-</section>
+</section> -->
 </div>

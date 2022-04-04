@@ -55,7 +55,7 @@
   ]
 </script>
 
-<header class="container flex flex-col items-center px-4 py-5 mx-auto text-center h-4/5"
+<header class="container relative top-2.5 flex flex-col items-center px-4 py-5 mx-auto text-center h-5/6"
     >
       <h1 class="relative z-10 pb-6 text-4xl font-black leading-tight text-center text-gray-800 md:text-5xl tracking-snug sm:leading-snug md:leading-tight">
         We don't just make content
@@ -87,7 +87,7 @@
 <!--Image-->
 <section
     class="container inline-flex items-center justify-center transition duration-300 group hover:scale-95">
-    <a class="flex items-center justify-center text-center max-w-content" href="/photos">
+    <a class="flex items-center justify-center text-center max-w-content" href="/portfolio">
     <p
       class="absolute hidden text-2xl font-extrabold text-gray-900 sm:text-4xl group-hover:block"
     >
@@ -226,38 +226,31 @@
     <h3
       class="text-[1.75rem] ml-2 font-extrabold leading-9 tracking-tight text-left text-gray-900 lg:text-center sm:text-4xl sm:leading-10"
     >
-      Want the latest tips on content strategy?
+      This form doesn't actually work.
     </h3>
     <p
       class="max-w-3xl ml-2 sm:mx-auto mt-2 text-[1.15rem] sm:text-[1.3rem] leading-7 text-left text-gray-400 sm:text-center"
     >
-      Subscribe to our newsletter below!
+      It just exists to make the site look prettier.
     </p>
-    <form novalidate name="subscription" class="container flex items-center justify-center mx-auto my-4 w-7xl" action="https://api.web3forms.com/submit" method="POST">
-      <input type="hidden" name="apikey" value="e285ff6e-f7df-419d-b866-9aca64329628"/>
-      <input type="hidden" name="ccemail" value="theo@whatsorcery.com"/>
-      <input type="hidden" name="subject" value="New Submission from Web3Forms" />
-      <input type="hidden" name="redirect" value="https://web3forms.com/success" />
-      <input type="hidden" name="recaptcha_response" id="recaptchaResponse"/>
-      <input type="checkbox" name="botcheck" id="" class="hidden" />
+    <form class="container flex items-center justify-center mx-auto my-4 w-7xl">
       <div class="flex flex-col items-end justify-end space-x-2 space-y-4 text-left sm:flex-row max-h-max">
       <label for="name">
         Name
         <input
         type="text"
-        placeholder="John Doe"
+        placeholder="John Doe" id="name"
         class="block w-64 p-3 border border-gray-300 rounded md:w-56 h-min focus:ring-emerald-600 focus:shadow hover:drop-shadow-md drop-shadow filter"/>
       </label>
       <label for ="email">Email<input
           type="text"
-          placeholder="example@email.com"
+          placeholder="epykslion@gmail.com" id="email"
           class="block w-64 p-3 border border-gray-300 rounded md:w-56 h-min focus:ring-emerald-600 focus:shadow hover:drop-shadow-md drop-shadow filter"
         /></label>
-        <button
-          type="button"
+        <input
+          type="button" value="Subscribe"
           class="block w-64 h-12 p-3 mx-auto font-semibold transition duration-300 border border-gray-300 rounded shadow sm:w-1/3 hover:text-gray-50 hover:bg-emerald-500 hover:shadow-md active:"
-          >Subscribe</button
-        >
+          >
       </div>
     </form>
   </div>

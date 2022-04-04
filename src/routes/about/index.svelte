@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>About Theo</title>
+  <title>About Lionel</title>
 </svelte:head>
 
 <div
@@ -28,8 +28,7 @@
         </h1>
         <p class="mt-4 text-xl leading-6 text-gray-500">
           In 2020, I burned out immensely only to discover my passion for products, development and tech - eventually becoming an inbound consultant for startups.<br /><br />
-          Now, alongside <a class="font-semibold transition duration-300 hover:underline text-slate-600 hover:text-slate-700 hover:font-extrabold" href="https://hannahazlan.com">Hannah Azlan</a>, we're developing several products and services to help rebuild the startup landscape.
-        </p>
+          Now, alongside <a class="font-semibold transition duration-300 hover:underline text-slate-600 hover:text-slate-700 hover:font-extrabold" href="https://hannahazlan.com">Hannah Azlan</a>, we're developing several products and services to help rebuild the startup landscape.</p>
         <br/>
         <h2 class="text-xl">Here's what I do</h2>
         <!--Skills-->

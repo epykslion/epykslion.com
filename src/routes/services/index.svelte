@@ -1,5 +1,5 @@
-<main class="text-blueGray-100 bg-blueGray-700">
-  <section class="text-blueGray-100 bg-blueGray-700 ">
+<main class="text-slate-100 bg-slate-700">
+  <section class="text-slate-100 bg-slate-700 ">
     <div class="container flex flex-col px-5 py-24 mx-auto lg:items-center">
       <div class="flex flex-col w-full mb-12 text-left lg:text-center">
         <p class="mb-4 text-lg font-semibold tracking-widest">Your website, but better</p>
@@ -19,31 +19,31 @@
     </div>
     <h2 class="text-2xl font-semibold md:text-4xl">Your website could look like this</h2>
   </section>
-  <section id="price" class="text-blueGray-100">
+  <section id="price" class="text-slate-100">
     <div class="items-center justify-center px-5 py-12 lg:px-20">
       <div class="flex flex-wrap items-center justify-center w-full gap-4">
         <div class="w-full xl:w-1/4 md:w-2/6">
           <div class="relative flex flex-col h-full p-8 transition duration-500 ease-in-out transform bg-white border rounded-lg shadow-xl">
             <h2 class="mb-4 text-lg font-medium tracking-widest text-black uppercase title-font">Basic Landing Page</h2>
-            <p class="flex items-center mb-8 text-lg font-medium leading-relaxed text-blueGray-700"> A starter pack for the <span class="text-lg font-semibold"> bold</span> </p>
+            <p class="flex items-center mb-8 text-lg font-medium leading-relaxed text-slate-700"> A starter pack for the bold</p>
             <strong class="flex items-end text-3xl font-black leading-none text-black lg:text-4xl ">
               <span> USD 400+ </span>
             </strong>
-            <p class="flex items-center mt-8 mb-2 text-base font-medium leading-relaxed text-blueGray-700">
+            <p class="flex items-center mt-8 mb-2 text-base font-medium leading-relaxed text-slate-700">
               <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white rounded-full bg-emerald-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
               </span>A single static web page
             </p>
-            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-blueGray-700">
+            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-slate-700">
               <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white rounded-full bg-emerald-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
               </span>Newsletter integration
             </p>
-            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-blueGray-700">
+            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-slate-700">
               <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white rounded-full bg-emerald-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                   <path d="M20 6L9 17l-5-5"></path>
@@ -56,25 +56,25 @@
         <div class="w-full xl:w-1/4 md:w-2/6">
           <div class="relative flex flex-col h-full p-8 transition duration-500 ease-in-out transform bg-white border rounded-lg shadow-xl ">
             <h2 class="mb-4 text-lg font-medium tracking-widest text-black uppercase title-font"> A Classic Website </h2>
-            <p class="flex items-center justify-center mb-8 text-lg font-medium leading-relaxed text-blueGray-700"> I see you're ready to show off </p>
+            <p class="flex items-center justify-center mb-8 text-lg font-medium leading-relaxed text-slate-700"> I see you're ready to show off </p>
             <strong class="flex items-end text-3xl font-black leading-none text-black lg:text-4xl ">
               <span> USD 650+ <span>
             </strong>
-            <p class="flex items-center mt-8 mb-2 text-base font-medium leading-relaxed text-blueGray-700">
+            <p class="flex items-center mt-8 mb-2 text-base font-medium leading-relaxed text-slate-700">
               <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white rounded-full bg-emerald-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
               </span>Everything from the Basic Version
             </p>
-            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-blueGray-700">
+            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-slate-700">
               <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white rounded-full bg-emerald-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
               </span>5 standard web pages
             </p>
-            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-blueGray-700">
+            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-slate-700">
               <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white rounded-full bg-emerald-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                   <path d="M20 6L9 17l-5-5"></path>
@@ -87,30 +87,30 @@
         <div class="w-full xl:w-1/4 md:w-2/6">
           <div class="relative flex flex-col h-full p-8 transition duration-500 ease-in-out transform bg-white border rounded-lg shadow-xl">
             <h2 class="mb-4 text-xl font-medium tracking-widest text-black uppercase title-font"> CMS, Activated </h2>
-            <p class="flex items-center mb-4 text-base font-medium leading-relaxed text-blueGray-700"> Take ownership of your E-Commerce and Content Operations System. </p>
+            <p class="flex items-center mb-4 text-base font-medium leading-relaxed text-slate-700"> Take ownership of your E-Commerce and Content Operations System. </p>
             <strong class="flex items-end text-3xl font-black leading-none text-black lg:text-4xl ">
               <span>USD 1250+ </span>
             </strong>
-            <p class="flex items-center mt-8 mb-2 text-base font-medium leading-relaxed text-blueGray-700">
+            <p class="flex items-center mt-8 mb-2 text-base font-medium leading-relaxed text-slate-700">
               <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white rounded-full bg-emerald-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
               </span>Everything in the Pro Plan
             </p>
-            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-blueGray-700">
+            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-slate-700">
               <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white rounded-full bg-emerald-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
               </span>Built with a CMS of your choice
             </p>
-            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-blueGray-700">
+            <p class="flex items-center mb-2 text-base font-medium leading-relaxed text-slate-700">
               <span class="inline-flex items-center justify-center flex-shrink-0 w-5 h-5 mr-2 text-white rounded-full bg-emerald-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" class="w-3 h-3" viewBox="0 0 24 24">
                   <path d="M20 6L9 17l-5-5"></path>
                 </svg>
-              </span><span class="font-semibold">Free</span> content strategy workshop
+              </span>Free content strategy workshop
             </p>
             <!--<button role="button" class="w-full px-4 py-2 mt-6 text-base font-medium text-blue-600 transition duration-500 ease-in-out transform bg-blue-100 rounded-lg hover:bg-blue-300 focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2">Buy Now </button>-->
           </div>
@@ -118,8 +118,8 @@
       </div>
     </div>
     <section class="flex flex-col items-center justify-center">
-      <h2 class="text-2xl font-semibold md:text-4xl">Don't be left behind,<br/><span class="text-lg md:text-3xl">Get your business up to speed today!</span></h2>
-    <ul role="list" class="z-20 grid justify-center max-w-xl grid-cols-5 gap-6 mt-4 filter drop-shadow lg:mt-12 ">
+      <h2 class="text-2xl font-semibold md:text-4xl">Again, the form doesn't work<br/><span class="text-lg font-medium md:text-3xl">Please ignore this form &#40;for now&#41;</span></h2>
+    <ul class="z-20 grid justify-center max-w-xl grid-cols-5 gap-6 mt-4 filter drop-shadow lg:mt-12 ">
   <li class="flex flex-col col-span-1 text-center">
     <div class="inline-flex items-center flex-shrink-0 w-12 h-12">
 <svg class="w-10 h-10 mx-auto lg:h-20 lg:w-20" viewBox="0 0 91 90" fill="none" xmlns="http://www.w3.org/2000/svg"><title>Figma</title>
@@ -169,28 +169,22 @@
 </section>
   </section>
   <section class="p-6">
-	<form novalidate name="contact" class="container w-full max-w-xl p-8 mx-auto space-y-6 rounded-md shadow-lg filter drop-shadow bg-coolGray-50 text-blueGray-800" action="https://api.web3forms.com/submit" method="POST">
-      <input type="hidden" name="apikey" value="e285ff6e-f7df-419d-b866-9aca64329628"/>
-      <input type="hidden" name="ccemail" value="theo@whatsorcery.com"/>
-      <input type="hidden" name="subject" value="New Submission from Web3Forms" />
-      <input type="hidden" name="redirect" value="https://web3forms.com/success" />
-      <input type="hidden" name="recaptcha_response" id="recaptchaResponse"/>
-      <input type="checkbox" name="botcheck" id="" class="hidden" />
+	<form class="container w-full max-w-xl p-8 mx-auto space-y-6 rounded-md shadow-lg filter drop-shadow bg-gray-50 text-slate-800">
 		<h2 class="w-full text-3xl font-bold leading-tight">Contact us</h2>
 		<div>
 			<label for="name" class="block mb-1 ml-1">Name</label>
-			<input id="name" type="text" placeholder="Your name" required class="block w-full border-0 shadow-md p-2 rounded focus:outline-none focus:ring-0 focus:ring-opacity-25 focus:ring-violet-400 focus:drop-shadow-xl focus:-translate-y-0.5 transition duration-200 hover:drop-shadow dark:bg-coolGray-800">
+			<input id="name" type="text" placeholder="Your name" required class="block w-full border-0 shadow-md p-2 rounded focus:outline-none focus:ring-0 focus:ring-opacity-25 focus:ring-violet-400 focus:drop-shadow-xl focus:-translate-y-0.5 transition duration-200 hover:drop-shadow">
 		</div>
 		<div>
 			<label for="email" class="block mb-1 ml-1">Email</label>
-			<input id="email" type="email" placeholder="Your email" required class="block w-full border-0 shadow-md p-2 rounded focus:outline-none focus:ring-0 focus:ring-opacity-25 focus:ring-violet-400 focus:drop-shadow-xl focus:-translate-y-0.5 transition duration-200 hover:drop-shadow dark:bg-coolGray-800">
+			<input id="email" type="email" placeholder="Your email" required class="block w-full border-0 shadow-md p-2 rounded focus:outline-none focus:ring-0 focus:ring-opacity-25 focus:ring-violet-400 focus:drop-shadow-xl focus:-translate-y-0.5 transition duration-200 hover:drop-shadow">
 		</div>
 		<div>
 			<label for="message" class="block mb-1 ml-1">Message</label>
-			<textarea id="message" type="text" placeholder="Message..." class="block w-full border-0 shadow-md p-2 rounded autoexpand focus:outline-none focus:ring-0 focus:ring-opacity-25 focus:ring-violet-400 focus:drop-shadow-xl focus:-translate-y-0.5 transition duration-200 hover:drop-shadow dark:bg-coolGray-800"></textarea>
+			<textarea id="message" type="text" placeholder="Message..." class="block w-full border-0 shadow-md p-2 rounded autoexpand focus:outline-none focus:ring-0 focus:ring-opacity-25 focus:ring-violet-400 focus:drop-shadow-xl focus:-translate-y-0.5 transition duration-200 hover:drop-shadow"></textarea>
 		</div>
 		<div>
-			<button type="submit" class="w-full px-4 py-2 font-bold rounded shadow-md focus:outline-none focus:ring hover:ring-0 focus:ring-opacity-50 dark:bg-violet-400 focus:ring-violet-400 focus:drop-shadow-xl focus:-translate-y-0.5 transition duration-200 hover:drop-shadow dark:text-coolGray-900">Send</button>-->
+			<input type="button" value="Submit" class="w-full px-4 py-2 font-bold rounded shadow-md focus:outline-none focus:ring hover:ring-0 focus:ring-opacity-50 focus:ring-violet-400 focus:drop-shadow-md focus:bg-emerald-500 focus:text-gray-50 focus:shadow-lg focus:-translate-y-0.5 transition duration-200 hover:text-gray-50 hover:bg-emerald-500 hover:shadow-lg">
 		</div>
 	</form>
 </section>
