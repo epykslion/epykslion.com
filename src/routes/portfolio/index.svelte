@@ -40,7 +40,7 @@
 </script>
 
 <svelte:head>
-	<title>Notable Work by Theo Nikolai</title>
+	<title>Lionel's Portfolio</title>
 </svelte:head>
 
 <Header>

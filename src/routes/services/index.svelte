@@ -1,3 +1,6 @@
+<svelte:head>
+	<title>Our Web Services</title>
+</svelte:head>
 <main class="text-slate-100 bg-slate-700">
 	<section class="container flex flex-col px-5 py-24 mx-auto lg:items-center">
 		<div class="flex flex-col w-full mb-12 text-left lg:text-center">
